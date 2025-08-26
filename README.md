@@ -1,40 +1,27 @@
-# Hi there 👋 I'm Abdulkadir Mohamed Abdi
+# Hi there 👋 I'm Abdulkadir Mohamed  
 
-🧩 WordPress Specialist | Site Management & Optimization
+💻 Web Designer | Frontend Developer in Training  
 
-I build and maintain professional, reliable WordPress websites for businesses and organizations. My focus is on clean structure, usability, performance, and long-term maintainability.
-
----
-
-## 🔧 Tech Stack
-- **CMS:** WordPress (Gutenberg, classic editor, customizer)
-- **Builders & Plugins:** Elementor, WooCommerce, popular utility plugins
-- **Back-end (basics):** PHP (basic), MySQL (basic)
-- **Workflow:** Git & GitHub, versioned deployments, backups, staging
+I have several years of experience creating professional WordPress websites for businesses and organizations. Currently, I’m studying **Software Development** at Helsinki Business College and building projects through school exercises and online coding bootcamps.  
 
 ---
 
-## 📌 Featured Projects
-- 🌐 **Smart Start** – Personal training company site → [smart-start.fi](https://www.smart-start.fi/)
-- 📰 **Somali Business Review** – Magazine site (WordPress) → https://sbr.simad.edu.so/
-- 🏥 **SIMAD Hospital** – Organization site (WordPress) → https://hospital.simad.edu.so/
+## 🔧 Tech & Tools  
+- WordPress (Elementor, WooCommerce, Site Management)  
+- HTML, CSS, JavaScript, React, Tailwind CSS (in training)  
+- Git & GitHub  
 
 ---
 
-## 🛠 What I Do
-- Full site setup & configuration
-- Theme customization and child themes
-- Plugin selection and integration
-- Performance, security, and backup routines
-- Content structure & accessibility considerations
+## 📌 Web design Projects  
+- 🌐 [Smart Start](https://www.smart-start.fi/) – Professional training website  
+- 📰 [Somali Business Review](https://sbr.simad.edu.so/) – Magazine site  
+- 🏥 [SIMAD Hospital](https://hospital.simad.edu.so/) – Organization site  
+- 🎓 [Faculty of Engineering, SIMAD University](https://feng.simad.edu.so/) – University site  
 
 ---
 
-## 📫 Connect
-- GitHub: [abdulkadirmoha](https://github.com/abdulkadirmoha)
-- LinkedIn: [linkedin.com/in/abdulkadirmoha](https://linkedin.com/in/abdulkadirmoha)
-- Email: your-email@example.com
-
----
-
-⭐️ From [abdulkadirmoha](https://github.com/abdulkadirmoha)
+## 📫 Connect  
+- 🌍 Portfolio: [abdulkadirmoha.github.io/My-Portfolio](https://abdulkadirmoha.github.io/My-Portfolio/)  
+- 💼 LinkedIn: [linkedin.com/in/abdulkadirmoha](https://linkedin.com/in/abdulkadirmoha)  
+- 📂 GitHub: [abdulkadirmoha](https://github.com/abdulkadirmoha)  
